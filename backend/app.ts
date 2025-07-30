@@ -15,7 +15,7 @@
 
  6- Listen to server
 
-
+ 7- use clustering to run multiple instance of server to increase performance.
 
 
 
